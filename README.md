@@ -13,7 +13,7 @@ The authors of this work are :
 For the *Numerical Optimisation* part, the themes of each Homework is summarized in this list:
 
 1. Homework 1: **Direct Methods for solving Linear Systems (matrix triangulation, Gauss method, LU algorithm)**
-2. Homework 2: **Iterative Methods for solving Linear Systems (Gauss-Seidel algorithm) **
+2. Homework 2: **Iterative Methods for solving Linear Systems (Gauss-Seidel algorithm)**
 3. Homework 3: **Polynomial interpolation (Lagrange polynomial, Runge's phenomenon)**
 4. Homework 4: **Numerical integration (Trapezoidal rule, Simpson's rule)**
 
