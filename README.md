@@ -21,5 +21,6 @@ For the *Numerical Optimisation* part, the themes of each Homework is summarized
 
 For the *Numerical Methods* part, here are the themes of each Homework:
 
-1. Homework 1: **The Black-Sholes model**
+1. Homework 1: **The Black-Sholes (explicit method) model**
 2. Homework 2: **Heat equation model**
+3. Homework 3: **The Black-Sholes (implicit method) model**
